@@ -1,4 +1,4 @@
-name: Deploy Selector Site to GitHub Pages
+name: Deploy Selector.dev Site to GitHub Pages
 
 on:
   push:
